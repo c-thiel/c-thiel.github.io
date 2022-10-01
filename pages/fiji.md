@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Fiji
-category: resources
+category: fiji
 permalink: /fiji
 ---

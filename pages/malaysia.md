@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Kuala Lumpur & Way Home
-category: resources
+category: malaysia
 permalink: /malaysia
 ---

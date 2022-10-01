@@ -1,6 +1,6 @@
 ---
 layout: category
 title: West Coast
-category: resources
+category: westcoast
 permalink: /westcoast
 ---

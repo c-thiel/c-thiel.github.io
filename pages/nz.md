@@ -1,6 +1,6 @@
 ---
 layout: category
 title: New Zealand
-category: resources
+category: nz
 permalink: /nz
 ---

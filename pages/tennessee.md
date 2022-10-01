@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Tennessee
-category: resources
+category: tennessee
 permalink: /tennessee
 ---
