@@ -16,4 +16,4 @@ Nachdem das gröbste erledigt ist, kümmert sich Nicole noch um die letzten Anpa
 Der Keller ist voll, die Koffer gepackt und der Wecker steht auf 05:00 - morgen geht es mit AA 0705 los Richtung Charlotte. Aktuell ist noch alles pünktlich - trotz Huricane Ian der heute knapp an Charlotte vorbeigezogen ist.
 
 Und jetzt testen wir noch ein Foto:
-![Plane]({{ BASE_PATH }}/assets/images/GSD1.pheno.png)
+![Plane](/assets/img/aa-plane.jpg)
