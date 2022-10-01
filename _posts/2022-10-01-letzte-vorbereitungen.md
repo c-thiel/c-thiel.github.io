@@ -3,7 +3,7 @@ layout: post
 title: "Letzte Vorbereitung (& Test von dem Blog)"
 author: "Christian"
 categories: tennessee
-tags: [tennessee]
+tags: [departure]
 image: cleaning.jpg
 ---
 
