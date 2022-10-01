@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Letzte Vorbereitung (& Test von dem Blog)"
+title: "Letzte Vorbereitung (& Test des Blogs)"
 author: "Christian"
 categories: tennessee
 tags: [departure]
