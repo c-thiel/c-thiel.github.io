@@ -1,6 +1,6 @@
 ---
 layout: category
-title: West Coast
+title: New Zealand
 category: resources
-permalink: /westcoast
+permalink: /nz
 ---
