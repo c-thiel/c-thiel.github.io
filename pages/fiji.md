@@ -1,6 +1,6 @@
 ---
 layout: category
-title: New Zealand
+title: Fiji
 category: resources
-permalink: /nz
+permalink: /fiji
 ---
