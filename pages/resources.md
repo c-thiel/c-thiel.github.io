@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: "Stop 1: Chattanooga"
 category: resources
-permalink: /resources
+permalink: /chattanooga
 ---

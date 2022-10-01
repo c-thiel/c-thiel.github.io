@@ -7,13 +7,12 @@ disqus:
 google-ID: ""
 
 menu:
-  - { name: "Interesting Facts", url: "facts" }
-  #- {name: 'Learning Resources', url: 'resources'}
-  #- {name: 'Sample Posts',       url: 'sample-posts'}
-  #- {name: 'Documentation',      url: 'documentation'}
+  - { name: "Tennessee", url: "tennessee" }
+  - { name: "West Coast", url: "westcoast" }
+  - { name: "Fiji", url: "fiji" }
+  - { name: "New Zealand", url: "nz" }
+  - { name: "Malaysia", url: "malaysia" }
   - { name: "Datenschutz", url: "privacy" }
-#- {name: 'Contact',            url: 'contact'}
-# - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
