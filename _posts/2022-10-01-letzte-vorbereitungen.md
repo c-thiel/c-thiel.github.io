@@ -14,3 +14,6 @@ Der Check-In für American Airlines ist auch schon bereit. Bitte diesmal kein zw
 Nachdem das gröbste erledigt ist, kümmert sich Nicole noch um die letzten Anpassungen der Masterarbeit. Heute auf der Agenda: LaTeX beibringen Zitaten zweiten grades vernünftig dazustellen.
 
 Der Keller ist voll, die Koffer gepackt und der Wecker steht auf 05:00 - morgen geht es mit AA 0705 los Richtung Charlotte. Aktuell ist noch alles pünktlich - trotz Huricane Ian der heute knapp an Charlotte vorbeigezogen ist.
+
+Und jetzt testen wir noch ein Foto:
+![Plane]({{ BASE_PATH }}/assets/images/GSD1.pheno.png)
