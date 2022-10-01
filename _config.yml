@@ -13,6 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "N&C Travel Blog"
 description:	       "Far from Home"
 author:              "Christian Thiel"
+url:                 "https://blog.tech-prism.de"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
