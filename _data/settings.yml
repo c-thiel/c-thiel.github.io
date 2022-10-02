@@ -7,6 +7,7 @@ disqus:
 google-ID: ""
 
 menu:
+  - { name: "Über Uns", url: "about" }
   - { name: "Tennessee", url: "tennessee" }
   - { name: "West Coast", url: "westcoast" }
   - { name: "Fiji", url: "fiji" }
