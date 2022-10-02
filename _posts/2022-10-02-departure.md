@@ -11,7 +11,8 @@ Der Wecker klingelt um 4:45, wir stehen auf und fangen an das Bett abzuziehen. 5
 
 5:20 - wir liegen wieder auf dem Sofa und schlafen noch ein bisschen.
 
-Wir fahren auf 11:00 zum Flughafen. Durch die Streckensperrung bei Kelkheim dauert die fahrt eineinhalb Stunden mit Bus und Bahn. Es regnet, aber das ist nicht schlimm, denn wir sind ja bald weg!
+Wir fahren auf 11:00 zum Flughafen. Durch die Streckensperrung bei Kelkheim dauert die Fahrt eineinhalb Stunden mit Bus und Bahn. Es regnet, aber das ist nicht schlimm, denn wir sind ja bald weg!
+![](/assets/img/us/abreise.jpeg)
 
 12:00 - Wir haben unsere Boardingpässe! Als kleine Besänftigung für den gestressten Durchschnittstouristen gibt es gleich noch einen 18€ Essengutschein pro Person dazu.
 
@@ -27,6 +28,8 @@ Wir fahren auf 11:00 zum Flughafen. Durch die Streckensperrung bei Kelkheim daue
 
 16:50 - Takeoff. ByeBye Mainz, bis Weihnachten dann!
 ![](/assets/img/us/hechtsheim.jpeg)
+
+21:00 - Das Handy hat sich mit dem in-flight WLAN verbunden. Darüber funktioniert zwar nur die AA App, die dafür umso überschwänglich berichtet, dass wir erneut umgebucht wurden. Neue Ankunftszeit in Nashville: 23:25 (6:25 deutsche Zeit).
 
 22:00 - Nach dem ersten schlechten Film *Ambulance* wird irgendwo über Grönland unlöffelbares Eis serviert und danach der Blog geschrieben.
 
