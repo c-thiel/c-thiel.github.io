@@ -31,5 +31,6 @@ Wir fahren auf 11:00 zum Flughafen. Durch die Streckensperrung bei Kelkheim daue
 
 21:00 - Das Handy hat sich mit dem in-flight WLAN verbunden. Darüber funktioniert zwar nur die AA App, die dafür umso überschwänglich berichtet, dass wir erneut umgebucht wurden. Neue Ankunftszeit in Nashville: 23:25 (6:25 deutsche Zeit).
 
-22:00 - Nach dem ersten schlechten Film *Ambulance* wird irgendwo über Grönland unlöffelbares Eis serviert und danach der Blog geschrieben.
+22:00 - Nach dem ersten schlechten Film *Ambulance* wird irgendwo über Grönland unlöffelbares Eis serviert:
+![](/assets/img/plane-ice.gif)
 
