@@ -4,7 +4,7 @@ title: "Nashville"
 author: "Christian"
 categories: tennessee
 tags: [travel]
-image: nashville.jpg
+image: nashville.jpeg
 ---
 Hier ist was los! Obwohl Nashville noch nicht einmal 1 Mio. Einwohner hat, haben wir selten eine so dynamische Partystadt gesehen. Nashville ist die Heimatstadt des Countrys - und das lebt die Stadt in allen Ecken. Außerdem wird kräftig gebaut: Die Stadt ist in den letzten zehn Jahren um über 20% gewachsen - und die Wachstumsrate soll die nächsten Jahre noch einmal erhöht werden.
 
