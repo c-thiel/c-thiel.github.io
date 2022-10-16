@@ -8,7 +8,7 @@ image: nashville.jpeg
 ---
 Hier ist was los! Obwohl Nashville noch nicht einmal 1 Mio. Einwohner hat, haben wir selten eine so dynamische Partystadt gesehen. Nashville ist die Heimatstadt des Countrys - und das lebt die Stadt in allen Ecken. Außerdem wird kräftig gebaut: Die Stadt ist in den letzten zehn Jahren um über 20% gewachsen - und die Wachstumsrate soll die nächsten Jahre noch einmal erhöht werden.
 
-Neben der Country Music Hall of Fame und über 70 Recording Studios bietet die Stadt vor allem eins: *Honky Tonk* - und das in allen Formen und Farben. Ob als Bus, Fahrrad oder auf Rooftop Bars am Broadway, live Musik gibt es hier überall bereits ab den Morgenstunden.
+Neben der Country Music Hall of Fame und über 70 Recording Studios bietet die Stadt vor allem eins: *Honky Tonk* - und das in allen Formen und Farben. Ob als Bus, Fahrrad oder auf Rooftop Bars am Broadway, Livemusik gibt es hier überall bereits ab den Morgenstunden.
 
 ![](/assets/img/us/nashville-bus.jpeg)
 ![](/assets/img/us/nashville-bike.jpeg)
@@ -29,6 +29,6 @@ Anschließend erkunden wir ein bisschen die Stadt und lassen uns am Broadway von
 
 Nachdem wir den Vibe der Stadt in uns aufgesaugt haben, gibt es noch Avocadotoast und Smoothie für eine glückliche Nicole, bevor es Abends auf eine Geistertour durch Nashville geht. Eine Story daraus könnt ihr weiter unten lesen.
 
-Nach einem ausgiebigen Frühstück (mit fried pickles!) bei Cracker Barrel trennen sich unsere Wege. Vielen Dank @Sebi, Melody und Theo für diese coole Woche. Schön das es geklappt hat!
+Nach einem ausgiebigen Frühstück (mit fried pickles!) bei Cracker Barrel trennen sich unsere Wege. Vielen Dank @Sebi, Melody und Theo für diese coole Woche. Schön, dass es geklappt hat!
 
 Wir machen uns danach einen weiteren schönen Tag in der Stadt, mit ganz viel Musik, einer guten Bowl und einer super Stadtrundfahrt mit Old City Tours. Abends werden dann noch Tickets für ein Lakers Game in LA gebucht. Der Wecker steht auf 3:30 - auf 4:00 ist das Lyft zum Flughafen gebucht: Morgen geht es nach LA!
