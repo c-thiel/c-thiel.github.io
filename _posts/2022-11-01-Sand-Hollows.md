@@ -6,6 +6,8 @@ categories: westcoast
 tags: [travel]
 image: sand-hollows.jpeg
 ---
+**Christians Bericht** (Nicole‘s Bericht ist weiter unten)
+
 Spaß kann man sich ja bekanntlich kaufen. Und manchmal korreliert die Menge an Spaß, die man hat, auch mit der Leistung, die man unterm Hintern hat, während man über Sanddünen düst und Berge erklimmt.
 
 Wie es der Zufall so will, fahren wir nach Las Vegas nach Osten Richtung Utah - und kommen hier an den *Sand Hollows* vorbei. Der *Sand Hollow State Park* ist ein 1322 Hektar großes off-road Mekka, zu dem Petrolheads aller Welt pilgern. Zugang gibt es nur mit 4x4 ATV‘s (All Terrain Vehicles) oder off-road Bikes. Nicht dass irgendwo jemand kontrolliert, aber mit etwas anderem kommt man neunmal einfach nicht über die Straße, die in den Park hineinführt.
@@ -27,3 +29,14 @@ Vielleicht auch wegen meiner Begeisterung und meinem Drang immer schnell weiterz
 ![](/assets/img/us/sand-hollows-1.jpeg)
 ![](/assets/img/us/sand-hollows-2.jpeg)
 ![](/assets/img/us/sand-hollows-dunes.jpeg)
+
+**Nicoles Bericht**
+Wieder einmal werde ich früh aus dem Bett gescheucht. Dieses Mal für eine Off-Road Tour. Chris freut sich seit Wochen. Ich lasse das Ganze mal auf mich zukommen. Bei der Vermietung angekommen, suggeriert uns der Mann vor Ort, dass man das Ganze eigentlich auch ohne Helm machen könnte. Mein Gedanke: „Genau. Nachdem ich unterschrieben habe, dass ich keinerlei Ansprüche habe, wenn ich bei der Aktion sterbe, fahre ich bestimmt ohne Helm.“
+Mit den Köpfen sicher in Helmen steckend geht es also los.
+
+Das erste, was auffällt: Es ist laut. Vielleicht sind Helme auch aus anderen Gründen praktisch. Just saying.
+
+Also fahren wir dann kreuz und quer durch das Off-Road Gebiet. Steine hoch, Schotter hoch, Steine runter, Schotter runter. Über die Sanddünen lasse ich Chris alleine flitzen. Seitliches Rutschen und das Gewackel auf dem Sand lassen meinen sonst doch recht stabilen Magen etwas rebellieren. Bis Mittag lassen wir uns weiter von dem Gefährt durchschütteln, dann machen wir Pause an einem wirklich hübschen See.
+
+Anschließend geht die Wackelpartie weiter, bis sich bei Chris die Sorge breit macht, dass unser Tank bald leer sein könnte. Bei dem unebenen Untergrund gar nicht so einfach festzustellen. Die Tankanzeige war auf jeden Fall eher als Richtwert zu verstehen. Also düsen wir zurück.
+Mein Fazit: Schon spannend, wo die Dinger so hoch und wieder runter kommen, aber *Fahren* bleibt für mich doch ein Mittel zum *Ankommen*.
