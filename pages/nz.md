@@ -1,6 +1,6 @@
 ---
 layout: category
-title: New Zealand
+title: Aotearoa
 category: nz
 permalink: /nz
 ---
