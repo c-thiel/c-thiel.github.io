@@ -12,7 +12,7 @@ Zunächst mal sind wir noch gar nicht im *Death Valley*, sondern in *Barstow* - 
 ![](/assets/img/us/zzxzy-valley-oasis.jpg)
 ![](/assets/img/us/zzxzy-valley-cactus.jpg)
 
-Der Name *Zzyzx* hat sich der Unternehmer ausgedacht, damit es das *letzte Wort der englischen Sprache* ist und immer auf der letzten Seite des tTelefonbuches steht.
+Der Name *Zzyzx* hat sich der Unternehmer ausgedacht, damit es das *letzte Wort der englischen Sprache* ist und immer auf der letzten Seite des Telefonbuches steht.
 
 Weiter geht es nördlich auf der Route 127. Wir halten hier unter anderem an der recht unbekannten aber sehr interessanten *Dublin Gulch*: In der Wüste wird es bekanntlich heiß - es gibt hier aber viel Bergbau und einige Abbaugebiete. Also haben sich vor ca. 100 Jahren Bergabeiter kleine Hobbithöhlen im Fels gebaut. Hier schützt der Fels vor der Hitze.
 

@@ -31,6 +31,7 @@ Vielleicht auch wegen meiner Begeisterung und meinem Drang immer schnell weiterz
 ![](/assets/img/us/sand-hollows-dunes.jpeg)
 
 **Nicoles Bericht**
+
 Wieder einmal werde ich früh aus dem Bett gescheucht. Dieses Mal für eine Off-Road Tour. Chris freut sich seit Wochen. Ich lasse das Ganze mal auf mich zukommen. Bei der Vermietung angekommen, suggeriert uns der Mann vor Ort, dass man das Ganze eigentlich auch ohne Helm machen könnte. Mein Gedanke: „Genau. Nachdem ich unterschrieben habe, dass ich keinerlei Ansprüche habe, wenn ich bei der Aktion sterbe, fahre ich bestimmt ohne Helm.“
 Mit den Köpfen sicher in Helmen steckend geht es also los.
 
