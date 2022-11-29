@@ -34,7 +34,7 @@ Wir fahren auf 11:00 zum Flughafen. Durch die Streckensperrung bei Kelkheim daue
 22:00 - Nach dem ersten schlechten Film *Ambulance* wird irgendwo über Grönland unlöffelbares Eis serviert:
 ![](/assets/img/plane-ice.gif)
 
-3:00 (deutsche Zeit) - wir landen in Charlotte. Wir haben ja schon den neuen Flug - soweit so gut - nur hilft uns das gar nicht viel weil auf den Koffern noch die falschen Zettel kleben. Also ein letztes Mal Schlange stehen, dann sind die Koffer wieder eingecheckt.
+3:00 (deutsche Zeit) - wir landen in Charlotte. Wir haben ja schon den neuen Flug - soweit so gut - nur hilft uns das gar nicht viel, weil auf den Koffern noch die falschen Zettel kleben. Also ein letztes Mal Schlange stehen, dann sind die Koffer wieder eingecheckt.
 
 6:58 (deutsche Zeit) - Landung in Nashville, nur 30 Minuten zu spät.
 
