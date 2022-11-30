@@ -30,8 +30,7 @@ Auf dem Rückweg habe ich dann endlich meine fertige Masterarbeit zum Drucken ge
   <source src="assets/img/nz/masterarbeit.mp4" type="video/mp4">
 </video>
 
-Unser letzter Stopp im Norden des Nordens war der Omanawanui Track. Auf dem Parkplatz hat uns strömender Regen erst zögern lassen. Dann haben wir uns aber wasserdicht verpackt und sind losgestiefelt. Auch hier: unglaublich schön. Ein weitläufiger schwarzer Strand zwischen zwei großen Hügeln. Im Wasser direkt davor thront eine kleine Insel mit einem Leuchtturm darauf. Es hat uns etwas Zeit gekostet, aber irgendwann haben wir auch über den Bach überquert, der am Strand entlang fließt.f
+Unser letzter Stopp im Norden des Nordens war der Omanawanui Track. Auf dem Parkplatz hat uns strömender Regen erst zögern lassen. Dann haben wir uns aber wasserdicht verpackt und sind losgestiefelt. Auch hier: unglaublich schön. Ein weitläufiger schwarzer Strand zwischen zwei großen Hügeln. Im Wasser direkt davor thront eine kleine Insel mit einem Leuchtturm darauf. Es hat uns etwas Zeit gekostet, aber irgendwann haben wir auch über den Bach überquert, der am Strand entlang fließt.
 
-![](/assets/img/nz/auckland_rangitoto_aussicht.jpeg)
-![](/assets/img/nz/auckland_rangitoto_asche.jpeg)
-![](/assets/img/nz/auckland_rangitoto_höhle.jpeg)
+![](/assets/img/nz/black-beach-pano.jpeg)
+![](/assets/img/nz/black-beach-2.jpeg)
