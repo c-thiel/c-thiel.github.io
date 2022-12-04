@@ -20,7 +20,7 @@ Am nächsten Tag ging es dann zum *Cape Reinga*, dem nördlichsten Punkt Neuseel
 ![](/assets/img/nz/north-cape-1.jpg)
 ![](/assets/img/nz/north-cape-2.jpg)
 
-Anschließend halten wir noch kurz an *Tapotupotu* und dem 90-Mile-Beach - jup, der ist lang. Und ein offizieller State Highway.
+Anschließend halten wir noch kurz an *Tapotupotu* und dem 90-Mile-Beach - jup, der ist lang und ein offizieller State Highway.
 
 ![](/assets/img/nz/north-90-mile.jpg)
 
