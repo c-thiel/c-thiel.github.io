@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Campervan, Here We Go!“
-author: „Nicole“
+title: "Campervan, Here We Go!"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: sand-hollows.jpeg
