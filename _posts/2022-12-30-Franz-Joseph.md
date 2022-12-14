@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Vom Franz zum Pfannkuchen“
-author: „Nicole“
+title: "Vom Franz zum Pfannkuchen"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: pancake.jpg
