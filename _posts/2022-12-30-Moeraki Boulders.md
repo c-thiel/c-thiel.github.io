@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Moeraki Boulders“
-author: „Nicole“
+title: "Moeraki Boulders"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: sand-hollows.jpeg
