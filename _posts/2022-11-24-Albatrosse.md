@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Albatrosse“
-author: „Nicole“
+title: "Albatrosse"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: albatrosse.jpg
