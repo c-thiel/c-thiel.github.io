@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Southland West Coast“
-author: „Nicole“
+title: "Southland West Coast"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: west-sunset1.jpg

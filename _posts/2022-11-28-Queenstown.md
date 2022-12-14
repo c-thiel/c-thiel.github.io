@@ -1,7 +1,7 @@
 ---
 layout: post
-title: „Endlich Kiwis“
-author: „Nicole“
+title: "Endlich Kiwis"
+author: "Nicole"
 categories: nz
 tags: [travel]
 image: queenstown.jpg
